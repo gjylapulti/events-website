@@ -1,3 +1,4 @@
-h1{
-    color:white;
-}
+@forward "reset";
+@forward "general-styles";
+@forward "overall-layout";
+@forward "website-sections";
